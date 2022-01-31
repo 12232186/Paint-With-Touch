@@ -1,0 +1,36 @@
+.body_backgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  #h1{
+      color: rgb(98, 0, 190); 
+      font-size: 40px;
+      font-style: italic;
+      font-family: cursive;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: rgb(255, 255, 255); 
+      border-style: double;
+  }
+
+  button {
+    background-color: #00d9ff;
+    border: none;
+    color: rgb(255, 0, 85);
+    padding: 10px 42px;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
